@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 0c12bfb8e2c2e794591bce09dd033a8b
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - YouTube Sans Light 48pt
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 66dd9cd2b6de1154e98fed8d6920f4b3, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
